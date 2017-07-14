@@ -1,0 +1,7 @@
+C:\Users\Thuy\AppData\Local\Temporary Projects\AssignmentGenerics\bin\Debug\AssignmentGenerics.exe.config
+C:\Users\Thuy\Documents\Visual Studio 2013\Projects\2530\AssignmentGenerics\AssignmentGenerics\bin\Debug\AssignmentGenerics.exe.config
+C:\Users\Thuy\Documents\Visual Studio 2013\Projects\2530\AssignmentGenerics\AssignmentGenerics\bin\Debug\AssignmentGenerics.exe
+C:\Users\Thuy\Documents\Visual Studio 2013\Projects\2530\AssignmentGenerics\AssignmentGenerics\bin\Debug\AssignmentGenerics.pdb
+C:\Users\Thuy\Documents\Visual Studio 2013\Projects\2530\AssignmentGenerics\AssignmentGenerics\obj\Debug\AssignmentGenerics.csprojResolveAssemblyReference.cache
+C:\Users\Thuy\Documents\Visual Studio 2013\Projects\2530\AssignmentGenerics\AssignmentGenerics\obj\Debug\AssignmentGenerics.exe
+C:\Users\Thuy\Documents\Visual Studio 2013\Projects\2530\AssignmentGenerics\AssignmentGenerics\obj\Debug\AssignmentGenerics.pdb
